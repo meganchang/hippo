@@ -11,9 +11,15 @@
     "express": "^4.13.3",
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
+    "react": "^15.1.0",
     "serve-favicon": "~2.3.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "less": "^2.5.3",
+    "twitter": "^1.2.5"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
